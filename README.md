@@ -6,7 +6,7 @@ This project represents my expertise springbooth, java and databases.
 ### `First Steps`
 
 [1] Open the project in IntelliJ IDEA.
-if you don't have it intalled, you can download the community edition [here]([https://code.visualstudio.com/Download](https://www.jetbrains.com/idea/download/?section=windows)) and follow all the installation instructions.
+if you don't have it intalled, you can download the community edition [here]([https://code.visualstudio.com/Download](https://www.jetbrains.com/idea/download/?section=windows) and follow all the installation instructions.
 
 [2] Set up maven
 
